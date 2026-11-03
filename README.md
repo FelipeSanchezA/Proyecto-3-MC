@@ -8,4 +8,3 @@ Para ejecutarlo se necesita Jupyter y las siguientes bibliotecas:
 Abrir Jupyter desde la carpeta del proyecto y ejecutar todas las celdas del notebook en orden. Las figuras, tablas y datos se guardan automáticamente en `resultados_mc`.
 Los parámetros principales están en `PARAM`. Las funciones del notebook generan las masas y nacimientos, calculan la evolución estelar, asignan remanentes y construyen las historias químicas y las distribuciones de metalicidad. Las semillas quedan registradas para poder repetir las simulaciones.
 Trabajamos con una sola zona, sin binarias, con mezcla instantánea y rendimiento químico constante. Para comparar con las observaciones usamos [M/H] ≈ [Fe/H]. La muestra de Haywood se utiliza sin las correcciones adicionales de selección del artículo.
-El diagrama del procedimiento está en `diagrama_flujo.pdf`.
